@@ -10,6 +10,9 @@
   --row-hover: #625e77;
   --line-through-color: #9b96ac;
 }
+* {
+  transition: all 0.1s ease-in;
+}
 
 ul,
 li {
