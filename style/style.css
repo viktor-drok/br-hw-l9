@@ -126,7 +126,7 @@ header {
 
 .check-input:checked + .chek-box {
   background-repeat: no-repeat;
-  background-image: url(/img/Vector1.svg);
+  background-image: url(../img/Vector1.svg);
 }
 
 .check-input:checked + .chek-box + .list-title {
